@@ -1,4 +1,4 @@
 Hello, CSCI 3130 Lab 1!
 
 Agenda: Git/Github
-Change 2
+Change 1 + 2
